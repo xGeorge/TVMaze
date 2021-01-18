@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "84F2802F-83A9-47FE-A8D2-CE76425C27E9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "44A4A49B-BED2-4E29-8E10-0C0FAB01F4E0"
+            shouldBeEnabled = "Yes"
+            nameForDebugger = "General"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA3B4846-5C60-4714-87C9-388C5838C8C8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tvmaze/Views/SchedulesController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C906E80E-0ED4-4EF6-83F4-26A30AF3769A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tvmaze/Views/ScheduleDetails.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "configure(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C906E80E-0ED4-4EF6-83F4-26A30AF3769A - 71b3404e1b05db62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tvmaze.ScheduleDetails.configure(for: tvmaze.Schedule) -&gt; ()"
+                  moduleName = "TV Maze"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorge.torres/Documents/iOS/BC/tvmaze/tvmaze/Views/ScheduleDetails.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "2376">
+               </Location>
+               <Location
+                  uuid = "C906E80E-0ED4-4EF6-83F4-26A30AF3769A - a6e0f613f02007fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (tvmaze.Day) -&gt; Swift.Optional&lt;tvmaze.Day&gt; in tvmaze.ScheduleDetails.configure(for: tvmaze.Schedule) -&gt; ()"
+                  moduleName = "TV Maze"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorge.torres/Documents/iOS/BC/tvmaze/tvmaze/Views/ScheduleDetails.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
